@@ -1,0 +1,17 @@
+{
+  "title": "Juveniles",
+  "description": "Before a child is born, somewhere in the world, they will have a dream. Do you have a dream? In this world, everything is precious. A child is left in a marchen fantasy.",
+  "artist": "Su Wol",
+  "author": "Su Wol",
+  "cover": "https://i.imgur.com/3b68UTD.png",
+  "chapters": {
+    "15": {
+      "title": "Chapter 15",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/7gEo9bn/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
